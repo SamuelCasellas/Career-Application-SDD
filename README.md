@@ -20,11 +20,11 @@ I was one of the four (4) team leaders involved in designing a comprehensive web
 
 # Personal Insights
 
-The backend consists of different service layers for different entites.
-The different services that can correspond to our application can include job postings, users, companies, etc. 
-They each consist of the following:
+The backend consists of different entites, each attached with its own service layer.
+The different entities that can correspond to our application can include job postings, users, companies, etc. 
+Each entity, or component, consists of the following:
 
-- Entity
+- Service
 - Controller 
 - Repository
 
